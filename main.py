@@ -10,7 +10,7 @@ from iac_testing_antipatterns import IaCTestingAntipatterns
 def main():
     
     
-    
+    print("Hi :3")
     base_dir= input("Please enter the directory: ")
     print("\n")
     
